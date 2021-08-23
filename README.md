@@ -13,3 +13,6 @@
 #### Second step is npm start
 #### Third step: (You need a API tester such as POSTMAN or insomnia) type localhost:3001/api/ and any of these properties using GET or POST or UPDATE and DELETE: (categories, products, tags)
 
+## Video
+https://drive.google.com/file/d/1lnN8AMGecUAVEHFTIgYhGvf6gjnaE9zt/view
+
